@@ -2,7 +2,8 @@
 /*
 	----------------------------------------------------------
 	created by Mclean Classic Kasambala, 
-	The Polytechnic, University of Malawi...
+	The Polytechnic, University of Malawi,
+	Student ...
 	on 23 February, 2018
 	music-website;
 	
