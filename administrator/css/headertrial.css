@@ -1,0 +1,14 @@
+.navbar-nav {
+  margin: 7.5px -15px;
+}
+.navbar-nav > li > a {
+   text-transform:uppercase;
+  font-size:1.1em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
